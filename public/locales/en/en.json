@@ -1,0 +1,13 @@
+{
+  "login": {
+    "title": "Login Page"
+  },
+  "layout": {
+    "main": {
+      "title": "Main Layout"
+    }
+  },
+  "snackbar": {
+    "show": "Show Snackbar"
+  }
+}
