@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next'
-import { appWithTranslation } from 'next-i18next'
+// import { appWithTranslation } from 'next-i18next'
 // import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 
 import PropTypes from 'prop-types'
@@ -45,4 +45,5 @@ RootLayout.propTypes = {
 //   }
 // }
 
-export default appWithTranslation(RootLayout)
+export default RootLayout
+// export default appWithTranslation(RootLayout)
